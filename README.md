@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siva Kumar Yadav
-- 👀 I’m interested in Software Development and Data Analytics
-- 🌱 I’m currently learning Full Stack Web Development and DSA
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning Full Stack Web Development 
 - 📫 How to reach me skumaryadav489@gmail.com
 - ⚡ Fun fact: Firefox’s logo is a red panda and not a fox. A tiny known fact is that the red panda’s nickname is “firefox.”
 
